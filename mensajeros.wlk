@@ -3,7 +3,7 @@ object roberto{
 	var vehiculo =null
 	
 	method peso(){
-		retun 90 + vehiculo.peso()
+		return 90 + vehiculo.peso()
 	}
 
 	method vehiculo(unVehiculo){
